@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "./static/js/main.0631e7cf.chunk.js",
+    "main.js.map": "./static/js/main.0631e7cf.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.1130748e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.1130748e.js.map",
+    "static/js/2.81ff1761.chunk.js": "./static/js/2.81ff1761.chunk.js",
+    "static/js/2.81ff1761.chunk.js.map": "./static/js/2.81ff1761.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.e285f742882994b9e5d0efd20b17a825.js": "./precache-manifest.e285f742882994b9e5d0efd20b17a825.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.81ff1761.chunk.js.LICENSE": "./static/js/2.81ff1761.chunk.js.LICENSE",
+    "static/media/ab1.af87f73e.svg": "./static/media/ab1.af87f73e.svg",
+    "static/media/ab2.64b99991.svg": "./static/media/ab2.64b99991.svg",
+    "static/media/ab3.3f27e1d6.svg": "./static/media/ab3.3f27e1d6.svg",
+    "static/media/home.fffdfa6c.svg": "./static/media/home.fffdfa6c.svg",
+    "static/media/mapLand.1fc8cc7e.svg": "./static/media/mapLand.1fc8cc7e.svg",
+    "static/media/mapRoad.3bfa4a91.svg": "./static/media/mapRoad.3bfa4a91.svg",
+    "static/media/sitting-4.9e848a10.svg": "./static/media/sitting-4.9e848a10.svg",
+    "static/media/sitting-7.95ef9c07.svg": "./static/media/sitting-7.95ef9c07.svg",
+    "static/media/standing-18.d81b55d3.svg": "./static/media/standing-18.d81b55d3.svg",
+    "static/media/standing-19.a726a18b.svg": "./static/media/standing-19.a726a18b.svg",
+    "static/media/standing-2.c7a5f6f9.svg": "./static/media/standing-2.c7a5f6f9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1130748e.js",
+    "static/js/2.81ff1761.chunk.js",
+    "static/js/main.0631e7cf.chunk.js"
+  ]
+}
