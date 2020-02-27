@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.js": "./static/js/main.95f79acb.chunk.js",
-    "main.js.map": "./static/js/main.95f79acb.chunk.js.map",
+    "main.js": "./static/js/main.1fe14e93.chunk.js",
+    "main.js.map": "./static/js/main.1fe14e93.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.1130748e.js",
     "runtime-main.js.map": "./static/js/runtime-main.1130748e.js.map",
-    "static/js/2.afa1a1b0.chunk.js": "./static/js/2.afa1a1b0.chunk.js",
-    "static/js/2.afa1a1b0.chunk.js.map": "./static/js/2.afa1a1b0.chunk.js.map",
+    "static/js/2.2980268b.chunk.js": "./static/js/2.2980268b.chunk.js",
+    "static/js/2.2980268b.chunk.js.map": "./static/js/2.2980268b.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.405003de229742a8e835b0df1a061fe9.js": "./precache-manifest.405003de229742a8e835b0df1a061fe9.js",
+    "precache-manifest.fb1dbd010727105afd6869d1a5b855ec.js": "./precache-manifest.fb1dbd010727105afd6869d1a5b855ec.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.afa1a1b0.chunk.js.LICENSE": "./static/js/2.afa1a1b0.chunk.js.LICENSE",
+    "static/js/2.2980268b.chunk.js.LICENSE": "./static/js/2.2980268b.chunk.js.LICENSE",
+    "static/media/Australian_Aboriginal_Flag.5713c521.svg": "./static/media/Australian_Aboriginal_Flag.5713c521.svg",
+    "static/media/Flag_of_the_Torres_Strait_Islanders.140e94fc.svg": "./static/media/Flag_of_the_Torres_Strait_Islanders.140e94fc.svg",
+    "static/media/Intersex_Pride_Flag.f1267a5f.svg": "./static/media/Intersex_Pride_Flag.f1267a5f.svg",
     "static/media/ab1.af87f73e.svg": "./static/media/ab1.af87f73e.svg",
     "static/media/ab2.64b99991.svg": "./static/media/ab2.64b99991.svg",
     "static/media/ab3.3f27e1d6.svg": "./static/media/ab3.3f27e1d6.svg",
     "static/media/home.fffdfa6c.svg": "./static/media/home.fffdfa6c.svg",
     "static/media/mapLand.1fc8cc7e.svg": "./static/media/mapLand.1fc8cc7e.svg",
     "static/media/mapRoad.3bfa4a91.svg": "./static/media/mapRoad.3bfa4a91.svg",
-    "static/media/pop.7a0e7f2b.svg": "./static/media/pop.7a0e7f2b.svg",
+    "static/media/pop.546ae619.svg": "./static/media/pop.546ae619.svg",
     "static/media/ripple4.d77996f9.svg": "./static/media/ripple4.d77996f9.svg",
     "static/media/ripple5.c0949e5d.svg": "./static/media/ripple5.c0949e5d.svg",
     "static/media/sitting-2.094cfb6f.svg": "./static/media/sitting-2.094cfb6f.svg",
-    "static/media/sitting-4.9e848a10.svg": "./static/media/sitting-4.9e848a10.svg",
+    "static/media/sitting-4.e0ba7225.svg": "./static/media/sitting-4.e0ba7225.svg",
     "static/media/sitting-7.95ef9c07.svg": "./static/media/sitting-7.95ef9c07.svg",
     "static/media/standing-16.2f0901a3.svg": "./static/media/standing-16.2f0901a3.svg",
     "static/media/standing-18.d81b55d3.svg": "./static/media/standing-18.d81b55d3.svg",
@@ -29,7 +32,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1130748e.js",
-    "static/js/2.afa1a1b0.chunk.js",
-    "static/js/main.95f79acb.chunk.js"
+    "static/js/2.2980268b.chunk.js",
+    "static/js/main.1fe14e93.chunk.js"
   ]
 }

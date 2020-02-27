@@ -1,23 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "539b0e8fc0b2506970904f6e2afbc254",
+    "revision": "08c64b7a8db8eb716240d121788e704b",
     "url": "./index.html"
   },
   {
-    "revision": "2c4907f47e1893840f4f",
-    "url": "./static/js/2.afa1a1b0.chunk.js"
+    "revision": "e550073aceb88a12ce21",
+    "url": "./static/js/2.2980268b.chunk.js"
   },
   {
     "revision": "2f915040f1240a60f4e49f29679e131c",
-    "url": "./static/js/2.afa1a1b0.chunk.js.LICENSE"
+    "url": "./static/js/2.2980268b.chunk.js.LICENSE"
   },
   {
-    "revision": "323fd3405d5afb761fc1",
-    "url": "./static/js/main.95f79acb.chunk.js"
+    "revision": "e0f1e7422759332bc93b",
+    "url": "./static/js/main.1fe14e93.chunk.js"
   },
   {
     "revision": "353824c915518b56d5bd",
     "url": "./static/js/runtime-main.1130748e.js"
+  },
+  {
+    "revision": "5713c5215e91390e7216dc8e99ee82f5",
+    "url": "./static/media/Australian_Aboriginal_Flag.5713c521.svg"
+  },
+  {
+    "revision": "140e94fca8ee43a242040c92f68413e2",
+    "url": "./static/media/Flag_of_the_Torres_Strait_Islanders.140e94fc.svg"
+  },
+  {
+    "revision": "f1267a5f7c042eb4dbd502ea794516e1",
+    "url": "./static/media/Intersex_Pride_Flag.f1267a5f.svg"
   },
   {
     "revision": "af87f73e09057ab5b150c83b4f9fd79a",
@@ -44,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/mapRoad.3bfa4a91.svg"
   },
   {
-    "revision": "7a0e7f2b566960878b14820e617d2a4c",
-    "url": "./static/media/pop.7a0e7f2b.svg"
+    "revision": "546ae619df0c2095dd3c1c1a23c52a90",
+    "url": "./static/media/pop.546ae619.svg"
   },
   {
     "revision": "d77996f947420c23b060f239074953c6",
@@ -60,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/sitting-2.094cfb6f.svg"
   },
   {
-    "revision": "9e848a104ae120f170d595bd06cd1c11",
-    "url": "./static/media/sitting-4.9e848a10.svg"
+    "revision": "e0ba7225cd7f2c645f7448b99df9e74b",
+    "url": "./static/media/sitting-4.e0ba7225.svg"
   },
   {
     "revision": "95ef9c07096088ca9a6ef4e4e8083102",
