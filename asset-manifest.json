@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "./static/js/main.43a30911.chunk.js",
-    "main.js.map": "./static/js/main.43a30911.chunk.js.map",
+    "main.js": "./static/js/main.73db33ac.chunk.js",
+    "main.js.map": "./static/js/main.73db33ac.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.1130748e.js",
     "runtime-main.js.map": "./static/js/runtime-main.1130748e.js.map",
     "static/js/2.7fee5c5f.chunk.js": "./static/js/2.7fee5c5f.chunk.js",
     "static/js/2.7fee5c5f.chunk.js.map": "./static/js/2.7fee5c5f.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.c9f5db04e9499ad2acb518432419ea3d.js": "./precache-manifest.c9f5db04e9499ad2acb518432419ea3d.js",
+    "precache-manifest.5db324471b9fefedbdc87bb2ee76c680.js": "./precache-manifest.5db324471b9fefedbdc87bb2ee76c680.js",
     "service-worker.js": "./service-worker.js",
     "static/js/2.7fee5c5f.chunk.js.LICENSE": "./static/js/2.7fee5c5f.chunk.js.LICENSE",
     "static/media/Australian_Aboriginal_Flag.5713c521.svg": "./static/media/Australian_Aboriginal_Flag.5713c521.svg",
@@ -18,9 +18,9 @@
     "static/media/pop.546ae619.svg": "./static/media/pop.546ae619.svg",
     "static/media/ripple4.d77996f9.svg": "./static/media/ripple4.d77996f9.svg",
     "static/media/ripple5.c0949e5d.svg": "./static/media/ripple5.c0949e5d.svg",
-    "static/media/sitting-2.094cfb6f.svg": "./static/media/sitting-2.094cfb6f.svg",
     "static/media/sitting-4.e0ba7225.svg": "./static/media/sitting-4.e0ba7225.svg",
-    "static/media/sitting-7.95ef9c07.svg": "./static/media/sitting-7.95ef9c07.svg",
+    "static/media/sitting-7.494368ed.svg": "./static/media/sitting-7.494368ed.svg",
+    "static/media/standing-12.56361563.svg": "./static/media/standing-12.56361563.svg",
     "static/media/standing-16.2f0901a3.svg": "./static/media/standing-16.2f0901a3.svg",
     "static/media/standing-18.d81b55d3.svg": "./static/media/standing-18.d81b55d3.svg",
     "static/media/standing-19.a726a18b.svg": "./static/media/standing-19.a726a18b.svg",
@@ -29,6 +29,6 @@
   "entrypoints": [
     "static/js/runtime-main.1130748e.js",
     "static/js/2.7fee5c5f.chunk.js",
-    "static/js/main.43a30911.chunk.js"
+    "static/js/main.73db33ac.chunk.js"
   ]
 }
